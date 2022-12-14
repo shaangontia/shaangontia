@@ -12,7 +12,19 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaangontia&theme=github" />  
 <div>
 
+## Achievements
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=shaangontia&column=7" />
+</p>
 
+  ## Languages & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,js,ts,css,sass,redux,nextjs,angular,nodejs,webpack,bootstrap,postgres,vscode,git,github,linux,svg,heroku" />
+  </a>
+</p>
+<br><br>
+  
 <!--
 **shaangontia/shaangontia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
