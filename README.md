@@ -20,7 +20,7 @@
   ## Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,js,ts,css,sass,redux,nextjs,angular,nodejs,webpack,bootstrap,postgres,vscode,git,github,linux,svg,heroku" />
+    <img src="https://skillicons.dev/icons?i=react,html,js,ts,css,python,sass,redux,nextjs,angular,nodejs,webpack,bootstrap,postgres,vscode,git,github,linux,svg,heroku" />
   </a>
 </p>
 <br><br>
